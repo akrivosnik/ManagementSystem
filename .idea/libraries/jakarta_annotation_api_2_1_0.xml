@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jakarta.annotation-api-2.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta.annotation-api-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta.ws.rs-api-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jersey-common-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jersey-container-servlet-core-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jersey-server-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
